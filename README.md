@@ -14,6 +14,19 @@ Made for Web Design competition hosted by Fasttekno 2026.
 
 More screenshots of the website are available in [`previews/`](./previews) btw!
 
+> [!IMPORTANT]
+>
+> ## 🏆 UPDATE!!
+>
+> I GOT 3RD PLACE HERE !!!!!!!!!! 🥳
+>
+> funfact: this website originally got 2nd place from the web design judging points alone...
+> but then i absolutely blundered the presentation and got sent down to 3rd place overall *sad_bunny_emoji.png
+>
+> BUTTTT~ next year i'll take 1st place on both the design and presentation points.
+>
+> trust.
+
 ## 🌐 Live Demo
 🐰 [https://byd-seal.netlify.app](https://wein1m.github.io/002_Made-Yodha-Waradana-Udita_BYD-Seal/)
 
