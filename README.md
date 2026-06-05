@@ -28,7 +28,7 @@ More screenshots of the website are available in [`previews/`](./previews) btw!
 > trust.
 
 ## 🌐 Live Demo
-🐰 [https://byd-seal.netlify.app](https://wein1m.github.io/002_Made-Yodha-Waradana-Udita_BYD-Seal/)
+🐰 https://byd-seal.netlify.app
 
 ## Identitas Diri
 - Nama Peserta: Made Yodha Waradana Udita
